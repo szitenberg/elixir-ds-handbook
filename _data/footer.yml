@@ -4,13 +4,8 @@ columns:
   - type: image
     image_width: 120px
     width: 1
-    src: 'assets/img/condensed_logo_negative.svg'
-    alt: ELIXIR-UK Fellowship logo
-  - type: image
-    image_width: 120px
-    width: 1   
-    src: 'assets/img/UKRI_logo.svg'
-    alt: UKRI logo
+    src: 'assets/img/ELIXIR_logo_neagtive_white.svg'
+    alt: ELIXIR Europe logo
   - type: links
     width: 10
     children: 
