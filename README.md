@@ -5,7 +5,7 @@ Welcome to the Data Steward Handbook, an ELIXIR Research Data Management (RDM) C
 
 ## Why a Data Steward Handbook?
 
-* In many organisations the data steward position is a new, often *solo* activity. Beyond the silos of local organisations and from the perspective of data stewards’ experiences, this Handbook aims to make their knowledge more accessible. \
+* In many organisations the data steward position is a new, often *solo* activity. Beyond the silos of local organisations and from the perspective of data stewards’ experiences, this Handbook aims to make their knowledge more accessible. 
 
 * A Data Steward Handbook was raised by the community as a missing element in the RDM ecosystem. In contrast to other resources that provides guidelines and best practices, Data Steward Handbook provides examples on how to actually perform your tasks.
 
