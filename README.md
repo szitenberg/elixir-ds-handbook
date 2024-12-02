@@ -1,31 +1,44 @@
 [![Jekyll site CI](https://github.com/elixir-europe/rdmkit/workflows/Jekyll%20site%20CI/badge.svg)](https://github.com/elixir-europe/rdmkit/actions?query=workflow%3A%22Jekyll+site+CI%22) [![theme badge](https://img.shields.io/badge/ELIXIR%20toolkit%20theme-jekyll-blue?color=0d6efd)](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme)
 
-<img src="/assets/img/main-logo.png" alt="ELXIR-UK Fellowship logo" width="200"/>
+# ELIXIR Data Steward Handbook
+Welcome to the Data Steward Handbook, an ELIXIR Research Data Management (RDM) Community resource that offers practical guidance to data stewards on relevant topics in their daily job, encouraging the use of existing resources and best practices to improve local data management.
+
+## Why a Data Steward Handbook?
+
+* In many organisations the data steward position is a new, often *solo* activity. Beyond the silos of local organisations and from the perspective of data stewards’ experiences, this Handbook aims to make their knowledge more accessible. \
+
+* A Data Steward Handbook was raised by the community as a missing element in the RDM ecosystem. In contrast to other resources that provides guidelines and best practices, Data Steward Handbook provides examples on how to actually perform your tasks.
 
 
-# ELIXIR-UK Fellowship
-The ELIXIR-UK Fellowship aims to embed Research Data Management (RDM) know-how into UK universities and institutes. Data steward Fellows will create training materials and deliver local training. We look to support Fellows’ RDM training activities and efforts to build a community of practice within their host institutions. 
+## Target audience 
+
+Data stewards dealing with life science data, regardless of their level of proficiency. 
+
+Note: some people may not have “data steward” as their job title, but are still responsible for support in data management, curation and coordinating. For a definition of this role, see the[ RDMkit Data Steward page](https://rdmkit.elixir-europe.org/data_steward).
 
 
-## Contribute
-If you want to contribute to our training materials, we encourage you to apply to become an ELIXIR-UK Fellow when the next application round opens.
-https://elixiruknode.org/activities/elixir-dash-fellowship/become-a-fellow/
+## Goals
 
 
-## The project behind the Fellowship
 
-The ELIXIR Fellowship is part of a broader project with the ambitious goal of supporting the life sciences UK workforce in research data management and professionalising the role of Data Stewards.
-This Fellowship of data steward ambassadors lies at the project’s core and drives the main goals and achievements.
+* To offer practical guidance to data stewards on relevant topics in their daily job.
+* To facilitate knowledge exchange on implementing good data management practices. 
+
+Out of scope
 
 
-## License
 
-The process documents and data are made available under a CC-BY license. More information about our license can be found on our [license](LICENSE) page.
+* The handbook does not provide legal advice and users must assess if its content is applicable to their institution, ELIXIR node, and/or country. 
+* The handbook does not address how an individual can manage their own research data nor is it a registry of resources (training materials, tools, standards etc.) as this is addressed by other ELIXIR resources such as [RDMkit](https://rdmkit.elixir-europe.org/), [DSW](https://ds-wizard.org/), [FAIR Cookbook](https://faircookbook.elixir-europe.org/content/home.html), [FAIRsharing](https://fairsharing.org/) and [TeSS](https://tess.elixir-europe.org/).
 
-## Acknowledgements
 
-This project was funded as part of the UKRI Innovation Scholars: Data Science Training in Health and Bioscience call (DaSH).
+## What to get out of this Handbook
 
-<br>
-<br>
-<img src="/assets/img/ukri-logo.png" width="15%">
+
+
+* Real-world examples of how other data stewards run data management activities in their institute, with tips and ideas that help others.
+* Existing data management know-how, as well as exchange on the practical implementation of these in a specific institute as a best practice. 
+* Good practices in training and community building, to stimulate data stewardship skills, local peer-to-peer learning and knowledge sharing in your institute.
+* Information on how to assess data management practices and apply these assessments to (further) develop your institute’s data management strategy.
+* Guidelines around data steward competencies, job profiles and career paths.
+* Link lists (i.e., where to find all the resources) 
