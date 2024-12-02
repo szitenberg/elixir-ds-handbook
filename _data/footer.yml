@@ -4,10 +4,10 @@ columns:
   - type: image
     image_width: 120px
     width: 1
-    src: 'assets/img/ELIXIR_logo_neagtive_white.svg'
+    src: 'assets/img/main_logo_negative.svg'
     alt: ELIXIR Europe logo
   - type: links
-    width: 10
+    width: 11
     children: 
       - url_text: About
         url: /about
