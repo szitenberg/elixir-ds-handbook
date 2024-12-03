@@ -407,6 +407,11 @@ h2 {
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
     text-decoration: none;
     padding: 10px;
+    position: fixed; /* Added for back-to-top button positioning */
+    bottom: 20px; /* Added for back-to-top button positioning */
+    right: 20px; /* Added for back-to-top button positioning */
+    display: none; /* Ensure it is hidden initially */
+    z-index: 100; /* Ensure it appears on top of other elements */
     
 }
 
@@ -428,6 +433,11 @@ h2 {
     color: $blue;
 }
 
+/* paddin/margin for back-to-top button */
+#back-to-top span {
+    display: inline-block;
+    vertical-align: middle;
+}
 
 /*----- Youtube containers -----*/
 .embed-container {
