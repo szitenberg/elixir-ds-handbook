@@ -48,6 +48,15 @@ Indication of length: between a half and one page.
 * Tips should reference higher-level models or steps, rather than specific community examples. For more detailed guidance, refer to the next section on best practices, which includes additional resources such as agenda templates, rotating chair strategies, and meeting note formats.
 -->
 
+## Best practices
+<!-- Pointers for writing this section:
+* This section is divided into two subsections: Profiles of established communities as well as tips and tricks from the experiences of the given community.
+* The section contains thus a profile of the community exhibiting general information of the introduced community, its aims, goals, and structure. 
+* Included are  links to further retrieve information on said communities.
+* Tips connected to each community reflect the experiences done by the community in regard to community establishment, maintenance, and content 
+-->
+
+
 ## Community examples
 
 ### Example 1
