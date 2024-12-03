@@ -3,4 +3,4 @@ title: Contributors
 
 ---
 
-{% include contributor-tiles-all.html custom="Diane Hatziioanou, Katarzyna Kamieniecka, Nilam Khan, Edward Parkinson, Phillip Crout, Elvina Gountouna, Richard Ostler, Gabriela Lopez-Gonzalez, Emma Karoune, Manuel Lera Ramirez, Sandra Ng, Toryn Poolman, Saskia Lawson-Tovey, Lijing Lin, Vasileios Panagiotis Lenis, Krister Jazz Urog, Sonal Henson, Korneel Hens, Adam Partridge, Rob Ewing, Laura Cooper, Andrew Mason, Annabel Cansdale, Ciara Loughrey"%}
+{% include contributor-tiles-all.html custom="Federico Bianchini, Freya Vamberg Delfs, Ivan Mičetić, Xenia Perez Sitja, Mijke Jetten, Minna Ahokas, Polonca Ferk, Vilem Ded, Bojan Kverh, Carmen Reverté, Flavio Licciulli, Helena Schnitzer, Laura Portell Silva, Diana Pilvar, Marina Popleteeva, Amir Szitenberg, Jeanne Wilbrandt, Nazeefa Fatima, Niclas Jareborg, Nils-Christian Lübke, Brane Leskošek, Bert Droesbeke"%}
