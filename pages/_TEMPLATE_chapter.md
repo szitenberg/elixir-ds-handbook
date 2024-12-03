@@ -11,8 +11,8 @@ Last updated: [D Month, Year]
 1. [Keywords](#keywords)
 2. [Context](#context)
 3. [Models](#models)
-4. [Cheatsheet][#cheatsheet]
-5. [Community examples][community-ids]
+4. [Cheatsheet](#cheatsheet)
+5. [Community examples](#community-examples)
 
 ## Keywords
 [keywords separated by commas]
