@@ -1,10 +1,16 @@
-title: ELIXIR-UK Fellowship
+title: ELIXIR Data Steward Handbook
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 description: "A Fellowship of UK ambassadors to build capacity in RDM for the life sciences"
 # Metadata description of the website
 
-remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@1.25.0
+remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@3.2.0
+
+topnav_title: Data Steward Handbook
+
+theme_variables:
+  topnav:
+    brand_logo: assets/img/main_logo.svg
 
 sass:
   style: compressed
