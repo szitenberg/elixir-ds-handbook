@@ -34,7 +34,7 @@ Before starting editing on GitHub:
 
 ## **Start editing**
 
-1. Go to the [DS Handbook](https://github.com/elixir-uk/elixir-ds-handbook) on GitHub.
+1. Go to the [ELIXIR DS Handbook](https://github.com/elixir-uk/elixir-ds-handbook) on GitHub.
 
 2. Click **Issues** in the top menu bar or use this [link](https://github.com/elixir-uk/elixir-ds-handbook/issues).
 
@@ -89,11 +89,11 @@ Before starting editing on GitHub:
 
 3. Click **Propose changes**.
 
-![PrDraft pull request on GitHub](/assets/img/Gfi-prdraft-pull-request-github.png)
+![Draft pull request (PR) on GitHub](/assets/img/Gfi-prdraft-pull-request-github.png)
 
 ![Linking issues in a pull request on GitHub](/assets/img/CI7-linking-issues-pull-request-github.png)
 
-**Tip:** You can create a draft pull request when you?re not ready to submit and will need to work more on it later. You can find more information about draft pull requests in the [GitHub documentation](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests#draft-pull-requests)
+**Tip:** You can create a draft pull request when you are not ready to submit and will need to work more on it later. You can find more information about draft pull requests in the [GitHub documentation](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests#draft-pull-requests)
 
 **Tip:** You can return to your pull request by going to the [pull request section](https://github.com/elixir-europe/rdmkit/pulls) of our GitHub repo.
 
@@ -103,7 +103,7 @@ Before starting editing on GitHub:
 
 ![Files changed tab on GitHub](/assets/img/FOL-files-changed-tab-github.png)
 
-3. Click on the icon with 3 dots ??? of the file you want to edit and then click on ?Edit file?.
+3. Click on the icon with the ellipses (...) of the file you want to edit and then click on *Edit file*.
 
 ![File change options on GitHub](/assets/img/oU9-file-change-options-github.png)
 
