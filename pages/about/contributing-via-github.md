@@ -2,7 +2,7 @@
 title: Contributing via GitHub
 search_exclude: true
 description: Instructions on how to contribute content to the DS Handbook via GitHub
-contributors: Marina Popleteeva, Diana Pilvar, Niclas Jareborg, Helena Schnitzer, Jeanne Wilbrandt, Nazeefa Fatima
+contributors: [Marina Popleteeva, Diana Pilvar, Niclas Jareborg, Helena Schnitzer, Jeanne Wilbrandt, Nazeefa Fatima]
 page_id: contributing_via_github
 ---
 
