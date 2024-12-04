@@ -2,7 +2,7 @@
 title: Vision & Mission
 search_exclude: true
 description: The Vision and Mission for the DS Handbook
-contributors: Jeanne Wilbrandt, Nazeefa Fatima, Brane Leskošek, Niclas Jareborg, Helena SchnitSchnitzer, Amir Szitenberg
+contributors: Jeanne Wilbrandt, Nazeefa Fatima, Brane Leskošek, Niclas Jareborg, Helena Schnitzer, Amir Szitenberg
 page_id: vision-and-mission
 ---
 
