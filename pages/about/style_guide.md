@@ -1,10 +1,10 @@
 ---
 title: DS Handbook style guide
 description: Style guidelines for Data Steward Handbook
-contributors: Marina Popleteeva, Helena Schnitzer, Bojan Kverh, Flavio Licciulli, Carmen Reverté, Diana Pilvar
+contributors: [Marina Popleteeva, Helena Schnitzer, Bojan Kverh, Flavio Licciulli, Carmen Reverté, Diana Pilvar]
 page_id: style_guide
 ---  
-  
+
 # Style guide  
 
 This style guide is adopted from [RDMkit](https://rdmkit.elixir-europe.org/style_guide) that in turn follows the European Commission’s [Web Writing Style Guide](https://wikis.ec.europa.eu/display/WEBGUIDE/02.+Web+writing+guidelines) and the more detailed [English Style Guide](https://commission.europa.eu/system/files/2023-01/styleguide_english_dgt_en.pdf). Below are the points that you might find most useful.  
