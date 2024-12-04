@@ -1,12 +1,12 @@
 ---
-title: Contributing in GitHub
+title: Contributing via GitHub
 search_exclude: true
-description: Instructions on how to contribute content to the DS Handbook in GitHub
-contributors: Marina Popleteeva, Diana Pilvar, Niclas Jareborg, Helena SchnitSchnitzer, Jeanne Wilbrandt
-page_id: contributing_in_github
+description: Instructions on how to contribute content to the DS Handbook via GitHub
+contributors: Marina Popleteeva, Diana Pilvar, Niclas Jareborg, Helena Schnitzer, Jeanne Wilbrandt, Nazeefa Fatima
+page_id: contributing_via_github
 ---
 
-# Contributing in GitHub
+# Contributing via GitHub
 
 This instruction has been inspired by [RDMkit](https://rdmkit.elixir-europe.org/github_way).
 
@@ -16,9 +16,9 @@ Prerequisites:
 
 - Basic knowledge of Markdown. All you need to know is in the RDMkit [markdown cheat sheet](https://rdmkit.elixir-europe.org/markdown_cheat_sheet)
 
-- A GitHub account. If you do not have one,[ ](https://github.com/join)[create a free GitHub account](https://github.com/join) before you start.
+- A GitHub account. If you do not have one, [create a free GitHub account](https://github.com/join) before you start.
 
-## **Read the guides**
+## **Read the relevant guides**
 
 Before starting editing on GitHub:
 
